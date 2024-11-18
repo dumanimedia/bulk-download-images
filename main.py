@@ -3,19 +3,19 @@ import requests
 
 projects = [
     {
-        "slug": "tech-innovations-inc",
-        "banner": "https://placehold.co/2000x872/1e90ff/ffffff?text=Tech+Innovations+Inc.&font=Lora",
-        "thumbnail": "https://placehold.co/1080x1080/1e90ff/ffffff?text=Tech+Innovations\nInc+Thumbnail&font=Lora",
+        "slug": "the-gadget-point",
+        "banner": "https://placehold.co/2000x872/e72929/ffffff?text=The+Gadget+Point&font=lora",
+        "thumbnail": "https://placehold.co/1080x1080/e72929/ffffff?text=The+Gadget+Point\n\nThumbnail&font=lora",
         "gallery": [
-            "https://placehold.co/1080x1080/1e90ff/ffffff?text=Tech+Innovations\nInc+Gallery+1&font=Lora",
-            "https://placehold.co/1080x1080/1e90ff/ffffff?text=Tech+Innovations\nInc+Gallery+2&font=Lora",
-            "https://placehold.co/1080x1920/1e90ff/ffffff?text=Tech+Innovations\nInc+Gallery+3&font=Lora",
-            "https://placehold.co/1080x1920/1e90ff/ffffff?text=Tech+Innovations\nInc+Gallery+4&font=Lora",
-            "https://placehold.co/1080x1080/1e90ff/ffffff?text=Tech+Innovations\nInc+Gallery+5&font=Lora",
-            "https://placehold.co/1920x1920/1e90ff/ffffff?text=Tech+Innovations\nInc+Gallery+6&font=Lora",
-            "https://placehold.co/1080x1080/1e90ff/ffffff?text=Tech+Innovations\nInc+Gallery+7&font=Lora",
-            "https://placehold.co/1920x1080/1e90ff/ffffff?text=Tech+Innovations\nInc+Gallery+8&font=Lora",
-            "https://placehold.co/1080x1080/1e90ff/ffffff?text=Tech+Innovations\nInc+Gallery+9&font=Lora",
+            "https://placehold.co/1080x1080/e72929/ffffff?text=The+Gadget+Point\nGallery+1&font=Lora",
+            "https://placehold.co/1080x1080/e72929/ffffff?text=The+Gadget+Point\nGallery+2&font=Lora",
+            "https://placehold.co/1080x1920/e72929/ffffff?text=The+Gadget+Point\nGallery+3&font=Lora",
+            "https://placehold.co/1080x1920/e72929/ffffff?text=The+Gadget+Point\nGallery+4&font=Lora",
+            "https://placehold.co/1080x1080/e72929/ffffff?text=The+Gadget+Point\nGallery+5&font=Lora",
+            "https://placehold.co/1920x1920/e72929/ffffff?text=The+Gadget+Point\nGallery+6&font=Lora",
+            "https://placehold.co/1080x1080/e72929/ffffff?text=The+Gadget+Point\nGallery+7&font=Lora",
+            "https://placehold.co/1920x1080/e72929/ffffff?text=The+Gadget+Point\nGallery+8&font=Lora",
+            "https://placehold.co/1080x1080/e72929/ffffff?text=The+Gadget+Point\nGallery+9&font=Lora",
         ],
     },
 ]
